@@ -13,9 +13,6 @@ A MERN application for basic tasks management.
 - [Installation and setup](#installation-and-setup)
 - [Backend API](#backend-api)
 - [frontend pages](#frontend-pages)
-- [npm scripts](#npm-scripts)
-- [Useful Links](#useful-links)
-- [Contact](#contact)
 
 ## Features
 
